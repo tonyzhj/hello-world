@@ -1,4 +1,5 @@
 import React from 'react';
+import './game.css';
 
 class Board extends React.Component {
 
