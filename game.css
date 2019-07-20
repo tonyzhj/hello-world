@@ -1,6 +1,6 @@
 .cell {
     width: 60px;
-    height: 60px;
+    height: 60px; 
 }
 
 .layout{
@@ -11,4 +11,6 @@
 .list{
     display: flex;
     flex-direction:column;
+    margin-left: 30px;
+    margin-top: 20px;
 }
