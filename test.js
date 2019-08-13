@@ -11,6 +11,4 @@ app.get('/', function (req, res) {
 
 app.listen(3000)
 
-//Add line 14
-
 //Add line 16
