@@ -29,4 +29,6 @@ function Encrypt(word) {
 } 
 
 console.log(Encrypt('jiaotong055'));
+console.log(Encrypt('111111'));
 console.log(Decrypt('6pz+QSiG7lGDxknPec7Ivw=='));
+console.log(Decrypt('9KBY6YX5aSE8WWa0OlG6hg=='));
